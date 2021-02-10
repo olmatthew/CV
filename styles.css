@@ -81,7 +81,8 @@ padding-right: 30%;
 }
 .mountain{
   position: absolute;
-  left: 28%;
+  left: 25%;
+  right: 25%;
   top: 40%
 }
 .btn{
